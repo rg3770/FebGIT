@@ -1,4 +1,4 @@
 a file added and modifiying to check Fetch is working or not 
 usuallt fetch is used to any changes in remote repository, if it is there it will notify us 
- modified again to check Fetch and commited in Remote repository 
+ modified again to check Fetch and commited in Remote repository , hecking 3rd line will it be pull
 checking pull it works or will it go for merge
